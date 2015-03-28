@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/aks/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.0/e019d15a13a9786f881141d2df6654b8510bce8b/core-3.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e019d15a13a9786f881141d2df6654b8510bce8b">
+        <dex dex="/Users/aks/Developer/AndroidStudioWorkSpace/InventoryManager/app/build/intermediates/pre-dexed/debug/core-3.2.0-3f692f81f26a1048e7532550bc6a12f18326b4b3.jar" />
+    </item>
+    <item
+        jar="/Users/aks/Developer/AndroidStudioWorkSpace/InventoryManager/app/libs/Parse-1.9.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5811138d4e6cb9d45030e133ef1a61b935154c3a">
+        <dex dex="/Users/aks/Developer/AndroidStudioWorkSpace/InventoryManager/app/build/intermediates/pre-dexed/debug/Parse-1.9.0-db3a5ec73114cca507b4071f9cf1cae657e07c95.jar" />
+    </item>
+    <item
+        jar="/Users/aks/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/aks/Developer/AndroidStudioWorkSpace/InventoryManager/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-0da35010f9ed94807e5172bf11ba41c594fd361f.jar" />
+    </item>
+    <item
+        jar="/Users/aks/Developer/AndroidStudioWorkSpace/InventoryManager/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/aks/Developer/AndroidStudioWorkSpace/InventoryManager/app/build/intermediates/pre-dexed/debug/classes-438cbc48c13e20931c60536207c7e6fc80a94340.jar" />
+    </item>
+    <item
+        jar="/Users/aks/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.0/6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd/bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="/Users/aks/Developer/AndroidStudioWorkSpace/InventoryManager/app/build/intermediates/pre-dexed/debug/bolts-android-1.2.0-33c8e2d82a19d0a0afdcd7b3b1ee8c9cc24ab260.jar" />
+    </item>
+    <item
+        jar="/Users/aks/Developer/AndroidStudioWorkSpace/InventoryManager/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/2.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="447d5f76cbb8e4c5153ffaa162482cf7bbfd43ec">
+        <dex dex="/Users/aks/Developer/AndroidStudioWorkSpace/InventoryManager/app/build/intermediates/pre-dexed/debug/classes-69b54b745d4841e8a572e9172b6805fa8010ad59.jar" />
+    </item>
+    <item
+        jar="/Users/aks/Developer/AndroidStudioWorkSpace/InventoryManager/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-legacy/2.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a918b3f0650371357842dfa18b782b5217c76c5c">
+        <dex dex="/Users/aks/Developer/AndroidStudioWorkSpace/InventoryManager/app/build/intermediates/pre-dexed/debug/classes-7dd505d8bb1ec94bc1caaa99e91f63d66b8e8524.jar" />
+    </item>
+    <item
+        jar="/Users/aks/Developer/AndroidStudioWorkSpace/InventoryManager/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/aks/Developer/AndroidStudioWorkSpace/InventoryManager/app/build/intermediates/pre-dexed/debug/classes-0c4842a09826235795c79efb7feaf19b7c5c601b.jar" />
+    </item>
+    <item
+        jar="/Users/aks/Developer/AndroidStudioWorkSpace/InventoryManager/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-integration/2.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="bff144eb4e797cc69e19d14d4bb6761518f5d226">
+        <dex dex="/Users/aks/Developer/AndroidStudioWorkSpace/InventoryManager/app/build/intermediates/pre-dexed/debug/classes-33e7b0e88954177f8bc9039e6ad0516b45e15cdf.jar" />
+    </item>
+    <item
+        jar="/Users/aks/Developer/AndroidStudioWorkSpace/InventoryManager/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/aks/Developer/AndroidStudioWorkSpace/InventoryManager/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-b9a8aad269ff6a53d6a97b09c271c42c87c5fdf3.jar" />
+    </item>
+
+</items>

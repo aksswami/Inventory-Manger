@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">InventoryManager</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="scan_bar_code">Scan Bar Code</string>
+    <string name="enter_bar_code">Enter Bar Code</string>
+    <string name="next">Next</string>
+    <string name="or">OR</string>
+    <string name="productName">Product Name</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
